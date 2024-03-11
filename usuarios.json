@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"usuarios.csv"},
+{"type":"table","name":"usuarios","database":"usuarios.csv","data":
+[
+{"id":"1","nombres":"John","apellidos":"Doe","direccion":"Calle Falsa 123","correo":"john@example.com","dni":"12345678","edad":"30","fecha_creacion":"2024-03-01 00:00:00","telefono":"123-456-7890\r"},
+{"id":"2","nombres":"Jane","apellidos":"Smith","direccion":"Avenida Principal 456","correo":"jane@example.com","dni":"87654321","edad":"25","fecha_creacion":"2024-03-01 00:00:00","telefono":"987-654-3210\r"},
+{"id":"3","nombres":"Alice","apellidos":"Johnson","direccion":"Plaza Central 789","correo":"alice@example.com","dni":"13579246","edad":"35","fecha_creacion":"2024-03-01 00:00:00","telefono":"456-789-0123\r"}
+]
+}
+]
